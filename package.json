@@ -1,0 +1,22 @@
+{
+  "name": "sitiowebpintores",
+  "version": "1.0.0",
+  "description": "sitio web estitico con express pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sskessk/SitioWebPintores.git"
+  },
+  "author": "Osiel Isaac Marquez Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sskessk/SitioWebPintores/issues"
+  },
+  "homepage": "https://github.com/sskessk/SitioWebPintores#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
